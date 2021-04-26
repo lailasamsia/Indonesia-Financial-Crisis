@@ -10,5 +10,4 @@ Indonesia experienced a financial crisis and conducted an analysis to find out t
 2. Data Understanding 
    Review the data to find out the description of the data in general
 3. Feature Engineering
-4. Feature Scaling
-5. Modelling Using machine learning to predict new data is in crisis or not.
+4. Modelling Using machine learning to predict new data is in crisis or not.
