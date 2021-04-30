@@ -26,3 +26,5 @@ Using 2 models, this are the results of the evaluation of the matrix:
 | Logistic Regression | 0.45      | 0.83   | 0.59     | 0.87     | 0.85    |
 | Random Forest       | 1.00      | 1.00   | 1.00     | 1.00     | 1.00    |
 
+<img src="ifc_output.jpg"/>
+
