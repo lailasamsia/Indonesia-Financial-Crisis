@@ -7,7 +7,7 @@ I am performing comprehensive EDA on Indonesia’s financial crisis dataset to u
 outliers, and ensemble machine learning models to predict new data to find out which data are in crisis. The 
 best model for this project is the random forest using ROC/AUC as evaluation matrix.
 <br><br>
-I will predict the number of clusters of universities in America.
+
 
 ## Framework Steps:
 
