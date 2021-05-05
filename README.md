@@ -4,7 +4,7 @@
 
 The project to determine whether or not the company experiencing a crisis based on its important features. 
 I am performing comprehensive EDA on Indonesia’s financial crisis dataset to understand important variables,
-outliers, and ensemble machine learning models to predict new data to find out which data are in crisis. The 
+outliers, and apply machine learning models to predict new data to find out which data are in crisis. The 
 best model for this project is the random forest using ROC/AUC as evaluation matrix.
 <br><br>
 
